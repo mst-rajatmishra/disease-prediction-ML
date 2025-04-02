@@ -287,3 +287,4 @@ t3 = Text(root, height=1, width=40,bg="orange",fg="black")
 t3.grid(row=19, column=1 , padx=10)
 
 root.mainloop()
+
